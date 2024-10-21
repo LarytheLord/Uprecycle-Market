@@ -10,7 +10,7 @@ import Dashboard from './components/Dashboard';
 import ProfilePage from './components/ProfilePage';
 import Login from './components/login';
 import Register from './components/register';
-// import ContactPage from './components/ContactPage';
+import ContactPage from './components/ContactPage';
 import Box from '@mui/material/Box';
 import Typography from '@mui/material/Typography';
 import { ToastContainer } from 'react-toastify';
